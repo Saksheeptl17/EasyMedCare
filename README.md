@@ -42,17 +42,6 @@ click Run in Visual Studio.
 
 Open the application in your browser.
 
-📁Project Structure
-EasyMedCare/
-├─ Controllers/
-├─ Models/
-├─ Views/
-├─ wwwroot/
-│ ├─ css/
-│ ├─ js/
-├─ web.config
-└─ EasyMedCare.sln
-
 🔐 Authentication & Security
 
 Secure user authentication using ASP.NET
